@@ -4,54 +4,12 @@ var quiz = {
     "JS": [
     {
     "id": 1,
-    "question": "Inside which HTML element do we put the JavaScript?",
-    "options": [
-    {
-    "a": "&lt;script&gt;",
-    "b": "&lt;javascript&gt;",
-    "c": "&lt;scripting&gt;",
-    "d": "&lt;js&gt;"
-    }
-    ],
-    "answer": "&lt;script&gt;",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 2,
-    "question": "Where is the correct place to insert a JavaScript?",
-    "options": [
-    {
-    "a": "The &lt;head&gt; section",
-    "b": "The &lt;body&gt; section",
-    "c": "Both the &lt;head&gt; section and the &lt;body&gt; section are correct"
-    }
-    ],
-    "answer": "Both the &lt;head&gt; section and the &lt;body&gt; section are correct",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 3,
-    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    "options": [
-    {
-    "a": "&ltscript href=&quot;xxx.js&quot;>",
-    "b": "&lt;script name=&quot;xxx.js&quot;&gt;",
-    "c": "&lt;script src=&quot;xxx.js&quot;&gt;"
-    }
-    ],
-    "answer": "&lt;script src=&quot;xxx.js&quot;&gt;",
-    "score": 0,
-    "status": ""
-    },
-    {
-    "id": 4,
-    "question": "The external JavaScript file must contain the &lt;script&gt; tag.",
+    "question": "“Alignment” is not the part of fundamentals.",
     "options": [
     {
     "a": "True",
-    "b": "False"
+    "b": "False",
+    
     }
     ],
     "answer": "False",
@@ -59,57 +17,102 @@ var quiz = {
     "status": ""
     },
     {
-    "id": 5,
-    "question": "How do you write &quot;Hello World&quot; in an alert box?",
+    "id": 2,
+    "question": "What will be the precautions when design for a client.",
     "options": [
     {
-    "a": "alertBox(&quot;Hello World&quot;);",
-    "b": "msg(&quot;Hello World&quot;);",
-    "c": "alert(&quot;Hello World&quot;);",
-    "d": "msgBox(&quot;Hello World&quot;);",
+    "a": "Design as we like",
+    "b": "Design as per market trend",
+    "c": "Design according to the way people think",
+    "d": "Take design idea from the internet"
     }
     ],
-    "answer": "alert(&quot;Hello World&quot;);",
+    "answer": "Design according to the way people think",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 3,
+    "question": "What will be the precautions when selecting fonts?",
+    "options": [
+    {
+    "a": "Limit the number of fonts",
+    "b": "Use different fonts",
+    "c": "Use different colors fonts",
+    "d": "Unlimited font you want to use",
+    }
+    ],
+    "answer": "Limit the number of fonts",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 4,
+    "question": "Used of white spaces is important when designing.",
+    "options": [
+    {
+    "a": "True",
+    "b": "False"
+    }
+    ],
+    "answer": "True",
+    "score": 0,
+    "status": ""
+    },
+    {
+    "id": 5,
+    "question": "Adobe Photoshop is :",
+    "options": [
+    {
+    "a": "Vector software",
+    "b": "Banner design software",
+    "c": "Raster software",
+    "d": "Business card design software",
+    }
+    ],
+    "answer": "Raster software",
     "score": 0,
     "status": ""
     },
     {
     "id": 6,
-    "question": "How do you create a function in JavaScript?",
+    "question": "6.	What is the shortcut key for on / off layer plate?",
     "options": [
     {
-    "a": "function myFunction()",
-    "b": "function:myFunction()",
-    "c": "function = myFunction()",
+    "a": "F8",
+    "b": "F3",
+    "c": "F7",
+    "d": "F9"
     }
     ],
-    "answer": "function myFunction()",
+    "answer": "F7",
     "score": 0,
     "status": ""
     },
     {
     "id": 7,
-    "question": "How do you call a function named &quot;myFunction&quot;?",
+    "question": "9.	What is the default file type in photoshop?",
     "options": [
     {
-    "a": "call function myFunction()",
-    "b": "call myFunction()",
-    "c": "myFunction()",
+    "a": "JPG",
+    "b": "PNG",
+    "c": "PSD",
+    "d": "JPEG"
     }
     ],
-    "answer": "myFunction()",
+    "answer": "PSD",
     "score": 0,
     "status": ""
     },
     {
     "id": 8,
-    "question": "How to write an IF statement in JavaScript?",
+    "question": "10.	What is the full form of RGB?",
     "options": [
     {
-    "a": "if i = 5 then",
-    "b": "if i == 5 then",
-    "c": "if (i == 5)",
-    "d": " if i = 5",
+    "a": "Red, Green, Brown",
+    "b": "Red, Gray, Black",
+    "c": "Red, Green, Blue",
+    "d": " Red, Gray, Blue"
     }
     ],
     "answer": "if (i == 5)",
